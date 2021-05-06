@@ -1,0 +1,17 @@
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\bin\Debug\TicketBookingApp.exe.config
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\bin\Debug\TicketBookingApp.exe
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\bin\Debug\TicketBookingApp.pdb
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.Properties.Resources.resources
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.csproj.CopyComplete
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.exe
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.pdb
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.MainMenu.resources
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.Forms.FormLogin.resources
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.Forms.FormAirline.resources
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.Forms.FormDeshBoard.resources
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.Forms.FormAirlineClass.resources
+C:\Users\dell\source\repos\TicketBookingApp\TicketBookingApp\obj\Debug\TicketBookingApp.Forms.FormAirPorts.resources
